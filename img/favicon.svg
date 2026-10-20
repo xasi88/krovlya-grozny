@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="130 95 340 340"><rect x="130" y="95" width="340" height="340" rx="60" fill="#000"/>
+  <defs><clipPath id="above"><path d="M0 0 H600 V327 H586 C450 318 360 306 300 302 C240 306 150 318 14 327 H0Z"/></clipPath></defs>
+  <path fill="#ee1c1c" d="M14 327 C150 318 240 306 300 302 C360 306 450 318 586 327 C450 323 360 315 300 314 C240 315 150 323 14 327Z"/>
+  <g fill="none" stroke="#ee1c1c" stroke-linejoin="miter" stroke-miterlimit="10" clip-path="url(#above)">
+    <path d="M48 340 L150 224 L216 277" stroke-width="15"/>
+    <path d="M552 340 L450 224 L384 277" stroke-width="15"/>
+    <path d="M150 340 L300 198 L450 340" stroke-width="20"/>
+  </g>
+  <path fill="none" stroke="#ee1c1c" stroke-width="7" d="M230 280 L300 228 L370 280"/>
+  <g fill="#ee1c1c">
+    <path d="M266 305 V282 A34 34 0 0 1 334 282 V305Z"/>
+    <rect x="138" y="254" width="23" height="23"/>
+    <rect x="439" y="254" width="23" height="23"/>
+  </g>
+  <path fill="none" stroke="#000" stroke-width="5" d="M300 244 V308 M264 284 H336"/>
+  <path fill="none" stroke="#000" stroke-width="3.5" d="M149.5 252 V279 M136 265.5 H163 M450.5 252 V279 M437 265.5 H464"/>
+</svg>
